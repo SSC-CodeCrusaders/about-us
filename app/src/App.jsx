@@ -1,4 +1,4 @@
-import Header_text from "./Components/HeaderText"
+import HeaderText from "./Components/HeaderText"
 import Header from "./Components/Navbar"
 import Body from "./Components/Body"
 import TeamMembers from "./Components/TeamMembers";
@@ -9,7 +9,7 @@ function App() {
         backgroundImage: `url("/people3.jpg")`,
       }}>
       <Header/>
-      <Header_text/>
+      <HeaderText/>
     </div>
     <Body/>
     <TeamMembers/>
