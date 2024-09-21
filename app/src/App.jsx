@@ -1,6 +1,7 @@
 import Header_text from "./Components/Header_text"
 import Header from "./Components/Navbar"
 import Body from "./Components/Body"
+import TeamMembers from "./Components/TeamMembers";
 function App() {
   return (
   <div className="w-auto h-auto bg-slate-100 ">
@@ -11,6 +12,7 @@ function App() {
       <Header_text/>
     </div>
     <Body/>
+    <TeamMembers/>
     </div>
   );
 }
