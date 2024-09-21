@@ -1,4 +1,4 @@
-import Header_text from "./Components/Header_text"
+import Header_text from "./Components/HeaderText"
 import Header from "./Components/Navbar"
 import Body from "./Components/Body"
 import TeamMembers from "./Components/TeamMembers";
