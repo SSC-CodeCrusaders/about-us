@@ -1,7 +1,7 @@
 const teamMembers = [
   //put your image in the public folder
   { name: "Matthew Bilinski", image: "/matt.jpg" },
-  { name: "Ivan", image: "/" },
+  { name: "Ivan Sanchez", image: "/ivan.jpg" },
   { name: "Matt", image: "/matto.jpg" },
 ];
 
